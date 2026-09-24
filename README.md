@@ -1,12 +1,12 @@
 # Khalid Chliyahe
 
-Computer Engineering Student at ENSA Fès
+Computer Engineering Student at ENSA Fès | Passionate about AI Engineering and Data
 
 ## About Me
 
-I'm a second-year student in the engineering cycle at ENSA Fès, interested in
-Artificial Intelligence, machine learning and software development. I learn by
-building practical projects, mainly in Python.
+I'm a second-year student in the engineering cycle at ENSA Fès, passionate
+about Artificial Intelligence and Data, with a growing interest in AI
+Engineering. I learn by building practical projects, mainly in Python.
 
 ## Education
 
