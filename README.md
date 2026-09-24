@@ -26,7 +26,7 @@ ranking pipeline.
 - Road distance via OSRM and waiting time per service
 - Geolocation with a self-hosted Nominatim instance
 - PDF appointment voucher with QR code
-- Python · FastAPI · scikit-learn · PostgreSQL · OSRM · Nominatim · Docker
+- Python · FastAPI · scikit-learn · spaCy · PostgreSQL · OSRM · Nominatim · Docker
 
 Source code and data are not publicly available because the project was
 developed in a hospital context.
@@ -50,7 +50,7 @@ stratified 80/20 split. Includes a Streamlit application.
 ## Technical Skills
 
 - **Languages:** Python, JavaScript, TypeScript, SQL
-- **AI / Data:** scikit-learn, NLTK, Pandas, NumPy, NLP, TF-IDF
+- **AI / Data:** scikit-learn, spaCy, NLTK, Pandas, NumPy, NLP, TF-IDF
 - **Web:** React, FastAPI, HTML, CSS, Tailwind CSS, Vite, Framer Motion
 - **Databases:** PostgreSQL
 - **Tools:** Git, GitHub, Docker
