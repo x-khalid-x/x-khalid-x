@@ -34,7 +34,7 @@ developed in a hospital context.
 ### [Spam Detection ML](https://github.com/x-khalid-x/spam-detection-ml)
 Team project. SMS spam classifier with an NLP pipeline (cleaning, stopwords,
 stemming, TF-IDF unigrams and bigrams). Several models were compared; logistic
-regression reaches 96.68% accuracy on the SMS Spam Collection dataset with a
+regression reaches ≈97% accuracy on the SMS Spam Collection dataset with a
 stratified 80/20 split. Includes a Streamlit application.
 
 - Python · scikit-learn · NLTK · Pandas · Streamlit
